@@ -1,0 +1,8 @@
+# Simple Summarizer
+
+##### Usage:
+
+1. Clone the folder.
+2. `cd summarizer`
+3. type in the following command to use the summarizer:
+   `python main.py <path/to/file> <number of lines the summary should have>`
